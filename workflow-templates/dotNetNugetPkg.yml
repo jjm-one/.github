@@ -1,4 +1,4 @@
-name: dotNetNugetPkg
+name: dotNet Nuget package workflow
 
 on:
   push:
